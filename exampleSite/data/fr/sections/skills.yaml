@@ -18,7 +18,7 @@ skills:
   url: "https://kubernetes.io/"
 
 - name: Go
-  icon: "images/skills/go.png"
+  icon: "images/skills/pythonlogo.png"
   summary: "Utiliser comme langue principale pour le développement professionnel. Capable d'écrire des programmes évolutifs, testables et maintenables."
   url: "https://golang.org/"
 
